@@ -1,0 +1,1 @@
+This is the MERN stack full project where the first part is the backend part 
